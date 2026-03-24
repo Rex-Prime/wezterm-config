@@ -15,7 +15,8 @@ config.enable_tab_bar = false
 -- or, changing the font size and color scheme.
 config.font_size = 14
 config.font = wezterm.font ('JetBrainsMonoNL Nerd Font Mono', {weight="Regular", stretch="Normal", style="Normal"})
-config.color_scheme = 'Rosé Pine Moon (base16)'
+config.color_scheme = 'rose-pine-moon'
+config.color_scheme_dirs = {'./colors/'}
 
 -- Finally, return the configuration to wezterm:
 return config
