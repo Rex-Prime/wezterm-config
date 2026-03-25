@@ -2,7 +2,7 @@
 ansi = [
     "#393552",  # ansi[0] - black
     "#eb6f92",  # ansi[1] - red
-    "#9ccfd8",  # ansi[2] - green
+    "#4CE055",  # ansi[2] - green
     "#f6c177",  # ansi[3] - yellow
     "#3e8fb0",  # ansi[4] - blue
     "#c4a7e7",  # ansi[5] - magenta
