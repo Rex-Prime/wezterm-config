@@ -9,7 +9,7 @@ ansi = [
     "#ea9a97",  # ansi[6] - cyan
     "#e0def4",  # ansi[7] - white
 ]
-background = "#232136"  # background
+background = "#191724"  # background
 brights = [
     "#6e6a86",  # bright[0] - bright black
     "#eb6f92",  # bright[1] - bright red
@@ -24,8 +24,8 @@ cursor_bg = "#e0def4"    # cursor background
 cursor_border = "#e0def4" # cursor border
 cursor_fg = "#232136"    # cursor foreground/text
 foreground = "#e0def4"   # main text color
-selection_bg = "#5F5B63" # selection background
-selection_fg = "#c4a7e7" # selection foreground/text
+selection_bg = "#26233a" # selection background
+#selection_fg = "#e0def4" # selection foreground/text
 
 [colors.indexed]
 # Add indexed colors here if needed, e.g.:
